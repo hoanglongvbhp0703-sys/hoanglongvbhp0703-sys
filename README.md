@@ -42,11 +42,6 @@
 **Other:** Git, GitHub, JavaFX  
 
 ---
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoanglongvbhp0703-sys&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
 
 
 ## 📫 Connect with Me
