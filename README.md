@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Hoàng Long</h1>
-<h3 align="center">AI / Machine Learning Engineer</h3>
 
 <p align="center">
 🎓 Student at Hanoi University of Science and Technology (HUST) <br>
