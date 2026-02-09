@@ -44,14 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoanglongvbhp0703-sys&show_icons=true&theme=dark&count_private=true&hide_border=true"
-  />
-</p>
-
----
 
 ## 📫 Connect with Me
 <p align="center">
