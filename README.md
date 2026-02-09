@@ -11,27 +11,28 @@
 ## 🧑‍💻 About Me
 - AI-oriented student with strong interest in **NLP and Deep Learning**
 - Hands-on experience with **LSTM, CNN, traditional ML models**
-- Enjoy building **end-to-end ML systems**: data processing → training → evaluation → demo
+- Able to build **end-to-end ML pipelines**: data preprocessing → training → evaluation
 - Familiar with **Python, TensorFlow/Keras, NumPy, Pandas**
-- Also experienced in **Software Engineering (Java, JavaFX)**
+- Background in **Software Engineering (Java, JavaFX, OOP design)**
 
 ---
 
 ## 🚀 Featured Projects
 - ⭐ **NLP Review Star Prediction**  
-  Sentiment & rating prediction (1–5 stars) using **LSTM**, confusion matrix, MAE evaluation  
+  Predict user ratings (1–5 stars) from text reviews using **LSTM**  
+  Metrics: Confusion Matrix, MAE, Accuracy
 
 - 🤖 **AI Agent for Invoice Processing**  
-  Intelligent agent for extracting & processing invoice information  
+  Intelligent agent for extracting and processing invoice information
 
 - 🧠 **Machine Learning Collection**  
-  Classic ML & Deep Learning experiments and implementations  
+  Collection of classic ML & Deep Learning experiments
 
 - 🧮 **Genetic Algorithm for TSP**  
-  Optimization problem solved using GA  
+  Optimization problem solved using **Genetic Algorithm**
 
 - 🏢 **Blue Moon Manager (JavaFX)**  
-  Apartment management system with OOP design  
+  Apartment management system with **OOP design**
 
 ---
 
@@ -45,7 +46,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanglongvbhp0703-sys&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanglongvbhp0703-sys&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 ---
