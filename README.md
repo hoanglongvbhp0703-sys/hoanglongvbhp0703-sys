@@ -16,34 +16,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- ⭐ **NLP Review Star Prediction**  
-  Predict user ratings (1–5 stars) from text reviews using **LSTM**  
-  Metrics: Confusion Matrix, MAE, Accuracy
-
-- 🤖 **AI Agent for Invoice Processing**  
-  Intelligent agent for extracting and processing invoice information
-
-- 🧠 **Machine Learning Collection**  
-  Collection of classic ML & Deep Learning experiments
-
-- 🧮 **Genetic Algorithm for TSP**  
-  Optimization problem solved using **Genetic Algorithm**
-
-- 🏢 **Blue Moon Manager (JavaFX)**  
-  Apartment management system with **OOP design**
-
----
-
-## 🛠️ Tech Stack
-**Languages:** Python, Java  
-**ML/DL:** TensorFlow, Keras, scikit-learn  
-**Data:** NumPy, Pandas, Matplotlib  
-**Other:** Git, GitHub, JavaFX  
-
----
-
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/long-hoàng-b597913a0">
