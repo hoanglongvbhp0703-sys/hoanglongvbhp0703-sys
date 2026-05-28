@@ -2,17 +2,7 @@
 
 <p align="center">
 🎓 Student at Hanoi University of Science and Technology (HUST) <br>
-🤖 Interested in Machine Learning, Deep Learning, NLP, LLM, AI Agents
 </p>
-
----
-
-## 🧑‍💻 About Me
-- AI-oriented student with strong interest in **NLP and Deep Learning**
-- Hands-on experience with **LSTM, CNN, traditional ML models**
-- Able to build **end-to-end ML pipelines**: data preprocessing → training → evaluation
-- Familiar with **Python, TensorFlow/Keras, NumPy, Pandas**
-- Background in **Software Engineering (Java, JavaFX, OOP design)**
 
 ---
 
